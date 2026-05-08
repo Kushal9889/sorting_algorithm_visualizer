@@ -44,9 +44,7 @@ function App() {
             );
           }}
           isOpen={true}
-          setIsOpen={(e) => {
-            console.log(e);
-          }}
+          setIsOpen={() => {}}
           data={{ style: aboutAlgoStyle }}
         />
       )}

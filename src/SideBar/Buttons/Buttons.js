@@ -155,9 +155,7 @@ export default function SplitButton() {
         </Button>
         <Button
           style={{ color: "white", marginLeft: "10px" }}
-          onClick={() => {
-            console.log("Stop Button Clicked....");
-          }}
+          onClick={() => {}}
           color="primary"
           variant="contained"
           className="stop-btn"

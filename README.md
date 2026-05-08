@@ -97,7 +97,7 @@ docker-compose up --build
 ```
 src/
 ├── Algorithms/
-│   ├── Bubble_sort.js        # O(n²) bubble sort with swap animation
+│   ├── bubble_sort.js        # O(n²) bubble sort with swap animation
 │   ├── insertion_sort.js     # O(n²) insertion sort with shift animation
 │   ├── selection_sort.js     # O(n²) selection sort with min-find animation
 │   ├── merge_sort.js         # O(n log n) merge sort with merge animation
@@ -143,3 +143,6 @@ src/
 ## License
 
 MIT
+
+Old account is unable to recover 
+- https://github.com/joker4195
