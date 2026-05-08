@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import InsertionSort from "./AboutAlgoHtmls/InsertionSort/InsertionSort";
 import QuickSort from "./AboutAlgoHtmls/QuickSort/QuickSort";
 import MergeSort from "./AboutAlgoHtmls/MergeSort/MergeSort";
